@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+#about img {
+    max-width: 100%;
+    height: auto;
+}
+
+#works img {
+    border-radius: 5px;
+}
+
+#contact a {
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+
+#contact a:hover {
+    text-decoration: underline;
+}
+
+.bg-blue {
+    background-color: lightblue;
+}
